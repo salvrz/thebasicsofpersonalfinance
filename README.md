@@ -1,1 +1,1 @@
-# personalfinance
+# thebasicsofpersonalfinance
